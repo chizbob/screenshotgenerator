@@ -1,0 +1,968 @@
+1654092137258	geckodriver	INFO	Listening on 127.0.0.1:50872
+1654092137469	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "50873" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/r2/jfrzfzqj7rjgpmcb5rms2xyr000k09/T/rust_mozprofileDuC3qH"
+console.error: JsonSchemaValidator.jsm: 
+  Ignoring parameter ".linkedin.com" - not a valid origin.
+console.error: JsonSchemaValidator.jsm: 
+  Ignoring parameter ".linkedin.biz" - not a valid origin.
+console.error: JsonSchemaValidator.jsm: 
+  Ignoring parameter "www.traq.com" - not a valid origin.
+console.error: JsonSchemaValidator.jsm: 
+  Ignoring parameter "commcare.tangoe.com" - not a valid origin.
+console.error: JsonSchemaValidator.jsm: 
+  Ignoring parameter "linkedin.csod.com" - not a valid origin.
+2022-06-01 07:02:17.924 plugin-container[54314:1923807] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-01 07:02:17.925 plugin-container[54314:1923807] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1654092137954	Marionette	INFO	Marionette enabled
+2022-06-01 07:02:17.972 plugin-container[54314:1923807] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-01 07:02:17.972 plugin-container[54314:1923807] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-01 07:02:17.972 plugin-container[54314:1923805] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-01 07:02:17.972 plugin-container[54314:1923805] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-01 07:02:18.544 firefox-bin[54313:1923726] Warning: Expected min height of view: (<NSButton: 0x123dcbc00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-01 07:02:18.545 firefox-bin[54313:1923726] Warning: Expected min height of view: (<NSButton: 0x123ebbc00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-01 07:02:18.545 firefox-bin[54313:1923726] Warning: Expected min height of view: (<NSButton: 0x123ec1c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-01 07:02:18.546 firefox-bin[54313:1923726] Warning: Expected min height of view: (<NSButton: 0x123ebc000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-01 07:02:18.546 firefox-bin[54313:1923726] Warning: Expected min height of view: (<NSButton: 0x123ebc400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-01 07:02:18.547 firefox-bin[54313:1923726] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x123ebd800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-01 07:02:18.547 firefox-bin[54313:1923726] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x123dcd000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/r2/jfrzfzqj7rjgpmcb5rms2xyr000k09/T/rust_mozprofileDuC3qH/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:50873/devtools/browser/529dd267-aa0f-4215-a2f4-4c3efcdfd79a
+1654092139487	Marionette	INFO	Listening on port 50916
+Read port: 50916
+1654092139546	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ssl.cdn-redfin.com/vLATEST/corvstatic/customer-pages/52.8c6368db13758946fec7.bundle.js, line 1: unreachable code after return statement
+JavaScript warning: https://ssl.cdn-redfin.com/vLATEST/corvstatic/customer-pages/52.8c6368db13758946fec7.bundle.js, line 1: unreachable code after return statement
+1654092157577	geckodriver	INFO	Listening on 127.0.0.1:50998
+1654092157586	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "50999" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/r2/jfrzfzqj7rjgpmcb5rms2xyr000k09/T/rust_mozprofileALMSui"
+console.error: JsonSchemaValidator.jsm: 
+  Ignoring parameter ".linkedin.com" - not a valid origin.
+console.error: JsonSchemaValidator.jsm: 
+  Ignoring parameter ".linkedin.biz" - not a valid origin.
+console.error: JsonSchemaValidator.jsm: 
+  Ignoring parameter "www.traq.com" - not a valid origin.
+console.error: JsonSchemaValidator.jsm: 
+  Ignoring parameter "commcare.tangoe.com" - not a valid origin.
+console.error: JsonSchemaValidator.jsm: 
+  Ignoring parameter "linkedin.csod.com" - not a valid origin.
+2022-06-01 07:02:37.907 plugin-container[54334:1924398] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-01 07:02:37.908 plugin-container[54334:1924398] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-01 07:02:37.911 plugin-container[54334:1924398] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-01 07:02:37.911 plugin-container[54334:1924398] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-01 07:02:37.912 plugin-container[54334:1924400] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-01 07:02:37.912 plugin-container[54334:1924400] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1654092157920	Marionette	INFO	Marionette enabled
+2022-06-01 07:02:38.439 firefox-bin[54333:1924348] Warning: Expected min height of view: (<NSButton: 0x121a1e400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-01 07:02:38.439 firefox-bin[54333:1924348] Warning: Expected min height of view: (<NSButton: 0x121c19400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-01 07:02:38.440 firefox-bin[54333:1924348] Warning: Expected min height of view: (<NSButton: 0x121c1a000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-01 07:02:38.440 firefox-bin[54333:1924348] Warning: Expected min height of view: (<NSButton: 0x121c22400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-01 07:02:38.441 firefox-bin[54333:1924348] Warning: Expected min height of view: (<NSButton: 0x1100adc00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-01 07:02:38.441 firefox-bin[54333:1924348] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x121c20800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-01 07:02:38.442 firefox-bin[54333:1924348] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x121a1d800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/r2/jfrzfzqj7rjgpmcb5rms2xyr000k09/T/rust_mozprofileALMSui/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:50999/devtools/browser/d8dd7dea-a72f-41e0-9754-7132449c5994
+1654092159230	Marionette	INFO	Listening on port 51008
+Read port: 51008
+1654092159246	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1654092187410	geckodriver	INFO	Listening on 127.0.0.1:51020
+1654092187419	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "51021" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/r2/jfrzfzqj7rjgpmcb5rms2xyr000k09/T/rust_mozprofile92JkRm"
+console.error: JsonSchemaValidator.jsm: 
+  Ignoring parameter ".linkedin.com" - not a valid origin.
+console.error: JsonSchemaValidator.jsm: 
+  Ignoring parameter ".linkedin.biz" - not a valid origin.
+console.error: JsonSchemaValidator.jsm: 
+  Ignoring parameter "www.traq.com" - not a valid origin.
+console.error: JsonSchemaValidator.jsm: 
+  Ignoring parameter "commcare.tangoe.com" - not a valid origin.
+console.error: JsonSchemaValidator.jsm: 
+  Ignoring parameter "linkedin.csod.com" - not a valid origin.
+2022-06-01 07:03:07.756 plugin-container[54365:1925072] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-01 07:03:07.756 plugin-container[54365:1925072] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-01 07:03:07.761 plugin-container[54365:1925072] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-01 07:03:07.761 plugin-container[54365:1925072] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-01 07:03:07.761 plugin-container[54365:1925078] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-01 07:03:07.761 plugin-container[54365:1925078] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1654092187768	Marionette	INFO	Marionette enabled
+2022-06-01 07:03:08.294 firefox-bin[54364:1925013] Warning: Expected min height of view: (<NSButton: 0x124464800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-01 07:03:08.295 firefox-bin[54364:1925013] Warning: Expected min height of view: (<NSButton: 0x124655c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-01 07:03:08.295 firefox-bin[54364:1925013] Warning: Expected min height of view: (<NSButton: 0x124657400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-01 07:03:08.296 firefox-bin[54364:1925013] Warning: Expected min height of view: (<NSButton: 0x124658c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-01 07:03:08.296 firefox-bin[54364:1925013] Warning: Expected min height of view: (<NSButton: 0x124653400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-01 07:03:08.297 firefox-bin[54364:1925013] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x124654400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-01 07:03:08.297 firefox-bin[54364:1925013] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x12445e400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/r2/jfrzfzqj7rjgpmcb5rms2xyr000k09/T/rust_mozprofile92JkRm/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:51021/devtools/browser/eeb4c003-a02f-46bd-af26-2a976a4ece16
+1654092189170	Marionette	INFO	Listening on port 51037
+Read port: 51037
+1654092189273	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ssl.cdn-redfin.com/vLATEST/corvstatic/customer-pages/52.8c6368db13758946fec7.bundle.js, line 1: unreachable code after return statement
+JavaScript warning: https://ssl.cdn-redfin.com/vLATEST/corvstatic/customer-pages/52.8c6368db13758946fec7.bundle.js, line 1: unreachable code after return statement
+1654096147849	Marionette	INFO	Stopped listening on port 51037
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1654096151307	Marionette	INFO	Stopped listening on port 50916
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1654096154343	Marionette	INFO	Stopped listening on port 51008
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1654173976664	geckodriver	INFO	Listening on 127.0.0.1:54658
+1654173976943	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "54659" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/r2/jfrzfzqj7rjgpmcb5rms2xyr000k09/T/rust_mozprofilexRlW5j"
+console.error: JsonSchemaValidator.jsm: 
+  Ignoring parameter ".linkedin.com" - not a valid origin.
+console.error: JsonSchemaValidator.jsm: 
+  Ignoring parameter ".linkedin.biz" - not a valid origin.
+console.error: JsonSchemaValidator.jsm: 
+  Ignoring parameter "www.traq.com" - not a valid origin.
+console.error: JsonSchemaValidator.jsm: 
+  Ignoring parameter "commcare.tangoe.com" - not a valid origin.
+console.error: JsonSchemaValidator.jsm: 
+  Ignoring parameter "linkedin.csod.com" - not a valid origin.
+2022-06-02 05:46:17.635 plugin-container[78259:2096655] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-02 05:46:17.635 plugin-container[78259:2096655] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-02 05:46:17.643 plugin-container[78259:2096655] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-02 05:46:17.643 plugin-container[78259:2096655] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-02 05:46:17.644 plugin-container[78259:2096658] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-02 05:46:17.644 plugin-container[78259:2096658] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1654173977646	Marionette	INFO	Marionette enabled
+2022-06-02 05:46:18.329 firefox-bin[78258:2096593] Warning: Expected min height of view: (<NSButton: 0x12ddbfc00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-02 05:46:18.329 firefox-bin[78258:2096593] Warning: Expected min height of view: (<NSButton: 0x12df96c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-02 05:46:18.330 firefox-bin[78258:2096593] Warning: Expected min height of view: (<NSButton: 0x12df92c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-02 05:46:18.330 firefox-bin[78258:2096593] Warning: Expected min height of view: (<NSButton: 0x12df8fc00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-02 05:46:18.331 firefox-bin[78258:2096593] Warning: Expected min height of view: (<NSButton: 0x12df93400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-02 05:46:18.331 firefox-bin[78258:2096593] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x12df93800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-02 05:46:18.331 firefox-bin[78258:2096593] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x12ddbc800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/r2/jfrzfzqj7rjgpmcb5rms2xyr000k09/T/rust_mozprofilexRlW5j/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:54659/devtools/browser/f13e681b-7be3-435a-bd70-d87ad08be215
+1654173979218	Marionette	INFO	Listening on port 54676
+Read port: 54676
+1654173979325	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ssl.cdn-redfin.com/vLATEST/corvstatic/customer-pages/52.3051d5d3f17e2b09742e.bundle.js, line 1: unreachable code after return statement
+JavaScript warning: https://ssl.cdn-redfin.com/vLATEST/corvstatic/customer-pages/52.3051d5d3f17e2b09742e.bundle.js, line 1: unreachable code after return statement
+1654174518307	geckodriver	INFO	Listening on 127.0.0.1:54922
+1654174518318	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "54923" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/r2/jfrzfzqj7rjgpmcb5rms2xyr000k09/T/rust_mozprofileH1g0Yf"
+console.error: JsonSchemaValidator.jsm: 
+  Ignoring parameter ".linkedin.com" - not a valid origin.
+console.error: JsonSchemaValidator.jsm: 
+  Ignoring parameter ".linkedin.biz" - not a valid origin.
+console.error: JsonSchemaValidator.jsm: 
+  Ignoring parameter "www.traq.com" - not a valid origin.
+console.error: JsonSchemaValidator.jsm: 
+  Ignoring parameter "commcare.tangoe.com" - not a valid origin.
+console.error: JsonSchemaValidator.jsm: 
+  Ignoring parameter "linkedin.csod.com" - not a valid origin.
+2022-06-02 05:55:18.633 plugin-container[78735:2103873] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-02 05:55:18.633 plugin-container[78735:2103873] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-02 05:55:18.637 plugin-container[78735:2103873] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-02 05:55:18.637 plugin-container[78735:2103873] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-02 05:55:18.638 plugin-container[78735:2103871] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-02 05:55:18.638 plugin-container[78735:2103871] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1654174518644	Marionette	INFO	Marionette enabled
+2022-06-02 05:55:19.175 firefox-bin[78734:2103820] Warning: Expected min height of view: (<NSButton: 0x127138c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-02 05:55:19.176 firefox-bin[78734:2103820] Warning: Expected min height of view: (<NSButton: 0x12732dc00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-02 05:55:19.177 firefox-bin[78734:2103820] Warning: Expected min height of view: (<NSButton: 0x12732a000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-02 05:55:19.177 firefox-bin[78734:2103820] Warning: Expected min height of view: (<NSButton: 0x12732d800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-02 05:55:19.178 firefox-bin[78734:2103820] Warning: Expected min height of view: (<NSButton: 0x12732c400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-02 05:55:19.178 firefox-bin[78734:2103820] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x12732ec00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-02 05:55:19.179 firefox-bin[78734:2103820] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x127139800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/r2/jfrzfzqj7rjgpmcb5rms2xyr000k09/T/rust_mozprofileH1g0Yf/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:54923/devtools/browser/0623146c-8938-46b5-990c-2218aea0a448
+1654174519949	Marionette	INFO	Listening on port 54936
+Read port: 54936
+1654174519981	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ssl.cdn-redfin.com/vLATEST/corvstatic/customer-pages/52.3051d5d3f17e2b09742e.bundle.js, line 1: unreachable code after return statement
+JavaScript warning: https://ssl.cdn-redfin.com/vLATEST/corvstatic/customer-pages/52.3051d5d3f17e2b09742e.bundle.js, line 1: unreachable code after return statement
+1654174524858	Marionette	INFO	Stopped listening on port 54936
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1654175468674	geckodriver	INFO	Listening on 127.0.0.1:57548
+1654175469094	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "57549" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/r2/jfrzfzqj7rjgpmcb5rms2xyr000k09/T/rust_mozprofilezwijsn"
+console.error: JsonSchemaValidator.jsm: 
+  Ignoring parameter ".linkedin.com" - not a valid origin.
+console.error: JsonSchemaValidator.jsm: 
+  Ignoring parameter ".linkedin.biz" - not a valid origin.
+console.error: JsonSchemaValidator.jsm: 
+  Ignoring parameter "www.traq.com" - not a valid origin.
+console.error: JsonSchemaValidator.jsm: 
+  Ignoring parameter "commcare.tangoe.com" - not a valid origin.
+console.error: JsonSchemaValidator.jsm: 
+  Ignoring parameter "linkedin.csod.com" - not a valid origin.
+2022-06-02 06:11:09.700 plugin-container[81244:2118253] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-02 06:11:09.700 plugin-container[81244:2118253] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-02 06:11:09.707 plugin-container[81244:2118253] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-02 06:11:09.707 plugin-container[81244:2118253] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-02 06:11:09.707 plugin-container[81244:2118251] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-02 06:11:09.707 plugin-container[81244:2118251] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1654175469711	Marionette	INFO	Marionette enabled
+2022-06-02 06:11:10.501 firefox-bin[81243:2118194] Warning: Expected min height of view: (<NSButton: 0x118ada800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-02 06:11:10.502 firefox-bin[81243:2118194] Warning: Expected min height of view: (<NSButton: 0x118bf4800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-02 06:11:10.503 firefox-bin[81243:2118194] Warning: Expected min height of view: (<NSButton: 0x118bfa000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-02 06:11:10.504 firefox-bin[81243:2118194] Warning: Expected min height of view: (<NSButton: 0x118bf8000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-02 06:11:10.505 firefox-bin[81243:2118194] Warning: Expected min height of view: (<NSButton: 0x118bfa400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-02 06:11:10.507 firefox-bin[81243:2118194] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x118bf6400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-02 06:11:10.508 firefox-bin[81243:2118194] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x118ad5400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/r2/jfrzfzqj7rjgpmcb5rms2xyr000k09/T/rust_mozprofilezwijsn/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:57549/devtools/browser/7b287818-b0e3-4cd1-bd8e-ad5b39338a86
+1654175471693	Marionette	INFO	Listening on port 57571
+Read port: 57571
+1654175471786	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ssl.cdn-redfin.com/vLATEST/corvstatic/customer-pages/52.3051d5d3f17e2b09742e.bundle.js, line 1: unreachable code after return statement
+JavaScript warning: https://ssl.cdn-redfin.com/vLATEST/corvstatic/customer-pages/52.3051d5d3f17e2b09742e.bundle.js, line 1: unreachable code after return statement
+1654175527377	geckodriver	INFO	Listening on 127.0.0.1:57671
+1654175527803	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "57672" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/r2/jfrzfzqj7rjgpmcb5rms2xyr000k09/T/rust_mozprofile2lzEBF"
+console.error: JsonSchemaValidator.jsm: 
+  Ignoring parameter ".linkedin.com" - not a valid origin.
+console.error: JsonSchemaValidator.jsm: 
+  Ignoring parameter ".linkedin.biz" - not a valid origin.
+console.error: JsonSchemaValidator.jsm: 
+  Ignoring parameter "www.traq.com" - not a valid origin.
+console.error: JsonSchemaValidator.jsm: 
+  Ignoring parameter "commcare.tangoe.com" - not a valid origin.
+console.error: JsonSchemaValidator.jsm: 
+  Ignoring parameter "linkedin.csod.com" - not a valid origin.
+1654175528330	Marionette	INFO	Marionette enabled
+2022-06-02 06:12:08.357 plugin-container[81735:2121264] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-02 06:12:08.360 plugin-container[81735:2121264] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-02 06:12:08.365 plugin-container[81735:2121264] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-02 06:12:08.365 plugin-container[81735:2121264] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-02 06:12:08.365 plugin-container[81735:2121266] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-02 06:12:08.365 plugin-container[81735:2121266] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-02 06:12:08.962 firefox-bin[81723:2121098] Warning: Expected min height of view: (<NSButton: 0x12bdbd400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-02 06:12:08.963 firefox-bin[81723:2121098] Warning: Expected min height of view: (<NSButton: 0x12c052400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-02 06:12:08.963 firefox-bin[81723:2121098] Warning: Expected min height of view: (<NSButton: 0x12c050800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-02 06:12:08.964 firefox-bin[81723:2121098] Warning: Expected min height of view: (<NSButton: 0x12c051000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-02 06:12:08.964 firefox-bin[81723:2121098] Warning: Expected min height of view: (<NSButton: 0x12c054000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-02 06:12:08.965 firefox-bin[81723:2121098] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x12c051800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-02 06:12:08.966 firefox-bin[81723:2121098] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x12bdb1000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/r2/jfrzfzqj7rjgpmcb5rms2xyr000k09/T/rust_mozprofile2lzEBF/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:57672/devtools/browser/e0a4ed46-6e8a-48f0-b580-df95826b510f
+1654175529869	Marionette	INFO	Listening on port 57688
+Read port: 57688
+1654175529961	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ssl.cdn-redfin.com/vLATEST/corvstatic/customer-pages/52.3051d5d3f17e2b09742e.bundle.js, line 1: unreachable code after return statement
+JavaScript warning: https://ssl.cdn-redfin.com/vLATEST/corvstatic/customer-pages/52.3051d5d3f17e2b09742e.bundle.js, line 1: unreachable code after return statement
+1654175721534	geckodriver	INFO	Listening on 127.0.0.1:57822
+1654175721913	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "57823" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/r2/jfrzfzqj7rjgpmcb5rms2xyr000k09/T/rust_mozprofileQFpkNm"
+console.error: JsonSchemaValidator.jsm: 
+  Ignoring parameter ".linkedin.com" - not a valid origin.
+console.error: JsonSchemaValidator.jsm: 
+  Ignoring parameter ".linkedin.biz" - not a valid origin.
+console.error: JsonSchemaValidator.jsm: 
+  Ignoring parameter "www.traq.com" - not a valid origin.
+console.error: JsonSchemaValidator.jsm: 
+  Ignoring parameter "commcare.tangoe.com" - not a valid origin.
+console.error: JsonSchemaValidator.jsm: 
+  Ignoring parameter "linkedin.csod.com" - not a valid origin.
+2022-06-02 06:15:22.321 plugin-container[82842:2127205] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-02 06:15:22.321 plugin-container[82842:2127205] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-02 06:15:22.325 plugin-container[82842:2127205] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-02 06:15:22.325 plugin-container[82842:2127205] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-02 06:15:22.325 plugin-container[82842:2127203] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-02 06:15:22.325 plugin-container[82842:2127203] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1654175722333	Marionette	INFO	Marionette enabled
+2022-06-02 06:15:22.874 firefox-bin[82841:2127142] Warning: Expected min height of view: (<NSButton: 0x125c26c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-02 06:15:22.875 firefox-bin[82841:2127142] Warning: Expected min height of view: (<NSButton: 0x125e1f400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-02 06:15:22.875 firefox-bin[82841:2127142] Warning: Expected min height of view: (<NSButton: 0x125e1c400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-02 06:15:22.876 firefox-bin[82841:2127142] Warning: Expected min height of view: (<NSButton: 0x125e22c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-02 06:15:22.876 firefox-bin[82841:2127142] Warning: Expected min height of view: (<NSButton: 0x125e22000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-02 06:15:22.877 firefox-bin[82841:2127142] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x125e21400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-02 06:15:22.877 firefox-bin[82841:2127142] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x125c1d000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/r2/jfrzfzqj7rjgpmcb5rms2xyr000k09/T/rust_mozprofileQFpkNm/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:57823/devtools/browser/af42b247-95c4-4cef-8a8d-4eab4a34f14c
+1654175724141	Marionette	INFO	Listening on port 57840
+Read port: 57840
+1654175724189	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ssl.cdn-redfin.com/vLATEST/corvstatic/customer-pages/52.3051d5d3f17e2b09742e.bundle.js, line 1: unreachable code after return statement
+JavaScript warning: https://ssl.cdn-redfin.com/vLATEST/corvstatic/customer-pages/52.3051d5d3f17e2b09742e.bundle.js, line 1: unreachable code after return statement
+1654175783323	geckodriver	INFO	Listening on 127.0.0.1:57933
+1654175783332	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "57934" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/r2/jfrzfzqj7rjgpmcb5rms2xyr000k09/T/rust_mozprofileQefTj1"
+console.error: JsonSchemaValidator.jsm: 
+  Ignoring parameter ".linkedin.com" - not a valid origin.
+console.error: JsonSchemaValidator.jsm: 
+  Ignoring parameter ".linkedin.biz" - not a valid origin.
+console.error: JsonSchemaValidator.jsm: 
+  Ignoring parameter "www.traq.com" - not a valid origin.
+console.error: JsonSchemaValidator.jsm: 
+  Ignoring parameter "commcare.tangoe.com" - not a valid origin.
+console.error: JsonSchemaValidator.jsm: 
+  Ignoring parameter "linkedin.csod.com" - not a valid origin.
+2022-06-02 06:16:23.655 plugin-container[82895:2128128] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-02 06:16:23.656 plugin-container[82895:2128128] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-02 06:16:23.660 plugin-container[82895:2128128] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-02 06:16:23.660 plugin-container[82895:2128128] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-02 06:16:23.660 plugin-container[82895:2128126] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-02 06:16:23.660 plugin-container[82895:2128126] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1654175783667	Marionette	INFO	Marionette enabled
+2022-06-02 06:16:24.206 firefox-bin[82894:2128071] Warning: Expected min height of view: (<NSButton: 0x128e18400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-02 06:16:24.206 firefox-bin[82894:2128071] Warning: Expected min height of view: (<NSButton: 0x12902d800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-02 06:16:24.207 firefox-bin[82894:2128071] Warning: Expected min height of view: (<NSButton: 0x12902c000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-02 06:16:24.207 firefox-bin[82894:2128071] Warning: Expected min height of view: (<NSButton: 0x12902e800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-02 06:16:24.208 firefox-bin[82894:2128071] Warning: Expected min height of view: (<NSButton: 0x12902c400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-02 06:16:24.208 firefox-bin[82894:2128071] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x12902ec00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-02 06:16:24.209 firefox-bin[82894:2128071] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x128e1bc00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/r2/jfrzfzqj7rjgpmcb5rms2xyr000k09/T/rust_mozprofileQefTj1/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:57934/devtools/browser/dd70ce9c-5e8b-4e9c-b8bb-acb0a1dae653
+1654175785080	Marionette	INFO	Listening on port 57956
+Read port: 57956
+1654175785098	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ssl.cdn-redfin.com/vLATEST/corvstatic/customer-pages/52.3051d5d3f17e2b09742e.bundle.js, line 1: unreachable code after return statement
+JavaScript warning: https://ssl.cdn-redfin.com/vLATEST/corvstatic/customer-pages/52.3051d5d3f17e2b09742e.bundle.js, line 1: unreachable code after return statement
+1654175814792	geckodriver	INFO	Listening on 127.0.0.1:58039
+1654175814801	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "58040" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/r2/jfrzfzqj7rjgpmcb5rms2xyr000k09/T/rust_mozprofileNlVh4d"
+console.error: JsonSchemaValidator.jsm: 
+  Ignoring parameter ".linkedin.com" - not a valid origin.
+console.error: JsonSchemaValidator.jsm: 
+  Ignoring parameter ".linkedin.biz" - not a valid origin.
+console.error: JsonSchemaValidator.jsm: 
+  Ignoring parameter "www.traq.com" - not a valid origin.
+console.error: JsonSchemaValidator.jsm: 
+  Ignoring parameter "commcare.tangoe.com" - not a valid origin.
+console.error: JsonSchemaValidator.jsm: 
+  Ignoring parameter "linkedin.csod.com" - not a valid origin.
+2022-06-02 06:16:55.112 plugin-container[82936:2128707] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-02 06:16:55.112 plugin-container[82936:2128707] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-02 06:16:55.116 plugin-container[82936:2128707] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-02 06:16:55.116 plugin-container[82936:2128707] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-02 06:16:55.116 plugin-container[82936:2128705] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-02 06:16:55.116 plugin-container[82936:2128705] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1654175815125	Marionette	INFO	Marionette enabled
+2022-06-02 06:16:55.651 firefox-bin[82935:2128652] Warning: Expected min height of view: (<NSButton: 0x120699000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-02 06:16:55.651 firefox-bin[82935:2128652] Warning: Expected min height of view: (<NSButton: 0x128d33000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-02 06:16:55.652 firefox-bin[82935:2128652] Warning: Expected min height of view: (<NSButton: 0x128d31c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-02 06:16:55.652 firefox-bin[82935:2128652] Warning: Expected min height of view: (<NSButton: 0x128d2e000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-02 06:16:55.653 firefox-bin[82935:2128652] Warning: Expected min height of view: (<NSButton: 0x128d34c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-02 06:16:55.653 firefox-bin[82935:2128652] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x128d2e800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-02 06:16:55.654 firefox-bin[82935:2128652] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x120697400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/r2/jfrzfzqj7rjgpmcb5rms2xyr000k09/T/rust_mozprofileNlVh4d/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:58040/devtools/browser/4e971f37-1e70-4dd3-bf7a-6bbbeb0496d4
+1654175816525	Marionette	INFO	Listening on port 58053
+Read port: 58053
+1654175816575	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ssl.cdn-redfin.com/vLATEST/corvstatic/customer-pages/52.3051d5d3f17e2b09742e.bundle.js, line 1: unreachable code after return statement
+JavaScript warning: https://ssl.cdn-redfin.com/vLATEST/corvstatic/customer-pages/52.3051d5d3f17e2b09742e.bundle.js, line 1: unreachable code after return statement
+1654175819339	Marionette	INFO	Stopped listening on port 58053
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1654176465481	geckodriver	INFO	Listening on 127.0.0.1:58803
+1654176465816	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "58804" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/r2/jfrzfzqj7rjgpmcb5rms2xyr000k09/T/rust_mozprofile7346LB"
+console.error: JsonSchemaValidator.jsm: 
+  Ignoring parameter ".linkedin.com" - not a valid origin.
+console.error: JsonSchemaValidator.jsm: 
+  Ignoring parameter ".linkedin.biz" - not a valid origin.
+console.error: JsonSchemaValidator.jsm: 
+  Ignoring parameter "www.traq.com" - not a valid origin.
+console.error: JsonSchemaValidator.jsm: 
+  Ignoring parameter "commcare.tangoe.com" - not a valid origin.
+console.error: JsonSchemaValidator.jsm: 
+  Ignoring parameter "linkedin.csod.com" - not a valid origin.
+2022-06-02 06:27:46.324 plugin-container[84937:2141099] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-02 06:27:46.325 plugin-container[84937:2141099] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1654176466334	Marionette	INFO	Marionette enabled
+2022-06-02 06:27:46.386 plugin-container[84937:2141099] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-02 06:27:46.386 plugin-container[84937:2141099] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-02 06:27:46.386 plugin-container[84937:2141149] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-02 06:27:46.386 plugin-container[84937:2141149] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-02 06:27:47.168 firefox-bin[84893:2140915] Warning: Expected min height of view: (<NSButton: 0x122653c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-02 06:27:47.169 firefox-bin[84893:2140915] Warning: Expected min height of view: (<NSButton: 0x122782c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-02 06:27:47.169 firefox-bin[84893:2140915] Warning: Expected min height of view: (<NSButton: 0x122783800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-02 06:27:47.170 firefox-bin[84893:2140915] Warning: Expected min height of view: (<NSButton: 0x122780000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-02 06:27:47.171 firefox-bin[84893:2140915] Warning: Expected min height of view: (<NSButton: 0x122784c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-02 06:27:47.171 firefox-bin[84893:2140915] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x122783000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-02 06:27:47.172 firefox-bin[84893:2140915] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x122647400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/r2/jfrzfzqj7rjgpmcb5rms2xyr000k09/T/rust_mozprofile7346LB/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:58804/devtools/browser/94e2f964-16e3-450d-989c-fdb1e808adea
+1654176468033	Marionette	INFO	Listening on port 58819
+Read port: 58819
+1654176468112	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+2022-06-02 06:27:58.869 firefox-bin[84893:2140915] TSM AdjustCapsLockLEDForKeyTransitionHandling - _ISSetPhysicalKeyboardCapsLockLED Inhibit
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2qe2ch488m9ek7yzy348udmwd, line 5061: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/52wgp9wyqjubo2hb4yuzxilal, line 6986: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/52wgp9wyqjubo2hb4yuzxilal, line 18833: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/3le6gwwspzkehztcikj1xaacv, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1pm56dktgqvi7t02hm7bu82ob, line 2394: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/52wgp9wyqjubo2hb4yuzxilal, line 18833: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/bpf1tny9c6mgm2kctrckf3sjs, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/c79telqxnjwrw4dtl8488lr6l, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1q13izl9ck9u2zxyd6qczi8zr, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/99y6qy9rn0q0aff9pgdpypyc8, line 39: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/spgg2wyfctoo4gkn756lci57, line 6: unreachable code after return statement
+1654176544196	geckodriver	INFO	Listening on 127.0.0.1:58944
+1654176544206	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "58945" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/r2/jfrzfzqj7rjgpmcb5rms2xyr000k09/T/rust_mozprofilepRtccE"
+console.error: JsonSchemaValidator.jsm: 
+  Ignoring parameter ".linkedin.com" - not a valid origin.
+console.error: JsonSchemaValidator.jsm: 
+  Ignoring parameter ".linkedin.biz" - not a valid origin.
+console.error: JsonSchemaValidator.jsm: 
+  Ignoring parameter "www.traq.com" - not a valid origin.
+console.error: JsonSchemaValidator.jsm: 
+  Ignoring parameter "commcare.tangoe.com" - not a valid origin.
+console.error: JsonSchemaValidator.jsm: 
+  Ignoring parameter "linkedin.csod.com" - not a valid origin.
+2022-06-02 06:29:04.522 plugin-container[89918:2150624] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-02 06:29:04.523 plugin-container[89918:2150624] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-02 06:29:04.526 plugin-container[89918:2150624] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-02 06:29:04.526 plugin-container[89918:2150624] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-02 06:29:04.526 plugin-container[89918:2150622] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-02 06:29:04.526 plugin-container[89918:2150622] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1654176544534	Marionette	INFO	Marionette enabled
+2022-06-02 06:29:05.095 firefox-bin[89904:2150552] Warning: Expected min height of view: (<NSButton: 0x1173c5000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-02 06:29:05.095 firefox-bin[89904:2150552] Warning: Expected min height of view: (<NSButton: 0x117616c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-02 06:29:05.096 firefox-bin[89904:2150552] Warning: Expected min height of view: (<NSButton: 0x117619000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-02 06:29:05.096 firefox-bin[89904:2150552] Warning: Expected min height of view: (<NSButton: 0x11761ac00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-02 06:29:05.097 firefox-bin[89904:2150552] Warning: Expected min height of view: (<NSButton: 0x117618800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-02 06:29:05.097 firefox-bin[89904:2150552] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x117618400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-02 06:29:05.098 firefox-bin[89904:2150552] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x110c8c000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/r2/jfrzfzqj7rjgpmcb5rms2xyr000k09/T/rust_mozprofilepRtccE/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:58945/devtools/browser/596f478f-6893-452c-b97f-2209d8aeee1f
+1654176545998	Marionette	INFO	Listening on port 58958
+Read port: 58958
+1654176546073	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+2022-06-02 06:29:13.658 firefox-bin[89904:2150552] TSM AdjustCapsLockLEDForKeyTransitionHandling - _ISSetPhysicalKeyboardCapsLockLED Inhibit
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://static-exp1.licdn.com/sc/h/52wgp9wyqjubo2hb4yuzxilal, line 6986: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/52wgp9wyqjubo2hb4yuzxilal, line 18833: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/3le6gwwspzkehztcikj1xaacv, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1pm56dktgqvi7t02hm7bu82ob, line 2394: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/52wgp9wyqjubo2hb4yuzxilal, line 18833: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/bpf1tny9c6mgm2kctrckf3sjs, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/c79telqxnjwrw4dtl8488lr6l, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1q13izl9ck9u2zxyd6qczi8zr, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/99y6qy9rn0q0aff9pgdpypyc8, line 39: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/spgg2wyfctoo4gkn756lci57, line 6: unreachable code after return statement
+1654176604985	geckodriver	INFO	Listening on 127.0.0.1:59079
+1654176604995	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "59080" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/r2/jfrzfzqj7rjgpmcb5rms2xyr000k09/T/rust_mozprofileqZfEGU"
+console.error: JsonSchemaValidator.jsm: 
+  Ignoring parameter ".linkedin.com" - not a valid origin.
+console.error: JsonSchemaValidator.jsm: 
+  Ignoring parameter ".linkedin.biz" - not a valid origin.
+console.error: JsonSchemaValidator.jsm: 
+  Ignoring parameter "www.traq.com" - not a valid origin.
+console.error: JsonSchemaValidator.jsm: 
+  Ignoring parameter "commcare.tangoe.com" - not a valid origin.
+console.error: JsonSchemaValidator.jsm: 
+  Ignoring parameter "linkedin.csod.com" - not a valid origin.
+2022-06-02 06:30:05.339 plugin-container[92749:2156015] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-02 06:30:05.339 plugin-container[92749:2156015] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-02 06:30:05.343 plugin-container[92749:2156015] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-02 06:30:05.343 plugin-container[92749:2156015] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-02 06:30:05.344 plugin-container[92749:2156017] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-02 06:30:05.344 plugin-container[92749:2156017] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1654176605352	Marionette	INFO	Marionette enabled
+2022-06-02 06:30:05.899 firefox-bin[92748:2155955] Warning: Expected min height of view: (<NSButton: 0x123050400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-02 06:30:05.899 firefox-bin[92748:2155955] Warning: Expected min height of view: (<NSButton: 0x12406d000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-02 06:30:05.900 firefox-bin[92748:2155955] Warning: Expected min height of view: (<NSButton: 0x12406fc00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-02 06:30:05.901 firefox-bin[92748:2155955] Warning: Expected min height of view: (<NSButton: 0x12406d400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-02 06:30:05.901 firefox-bin[92748:2155955] Warning: Expected min height of view: (<NSButton: 0x12406f000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-02 06:30:05.902 firefox-bin[92748:2155955] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x12406b400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-02 06:30:05.902 firefox-bin[92748:2155955] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x123042400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/r2/jfrzfzqj7rjgpmcb5rms2xyr000k09/T/rust_mozprofileqZfEGU/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:59080/devtools/browser/c1a2d07c-c950-404b-acfe-4a46c49da392
+1654176606795	Marionette	INFO	Listening on port 59098
+Read port: 59098
+1654176606873	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+2022-06-02 06:31:55.147 firefox-bin[92748:2155955] TSM AdjustCapsLockLEDForKeyTransitionHandling - _ISSetPhysicalKeyboardCapsLockLED Inhibit
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.firefox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.firefox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.firefox.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1654176742830	FirefoxAccounts	ERROR	FxA rejecting with error UNVERIFIED_ACCOUNT, details: undefined
+1654176742830	FirefoxAccounts	ERROR	Background refresh of initial profile failed: Error: UNVERIFIED_ACCOUNT(resource://gre/modules/FxAccounts.jsm:1530:18) JS Stack trace: _error@FxAccounts.jsm:1530:18
+withSessionToken@FxAccounts.jsm:789:18
+console.info: "Skipping device list refresh; not signed in"
+1654176742832	FirefoxAccounts	ERROR	FxA rejecting with error UNVERIFIED_ACCOUNT, details: undefined
+1654176742832	FirefoxAccounts	ERROR	Background refresh of initial profile failed: Error: UNVERIFIED_ACCOUNT(resource://gre/modules/FxAccounts.jsm:1530:18) JS Stack trace: _error@FxAccounts.jsm:1530:18
+withSessionToken@FxAccounts.jsm:789:18
+1654176743010	FirefoxAccounts	ERROR	FxA rejecting with error UNVERIFIED_ACCOUNT, details: undefined
+1654176743010	FirefoxAccounts	ERROR	Background refresh of initial profile failed: Error: UNVERIFIED_ACCOUNT(resource://gre/modules/FxAccounts.jsm:1530:18) JS Stack trace: _error@FxAccounts.jsm:1530:18
+withSessionToken@FxAccounts.jsm:789:18
+1654176743011	FirefoxAccounts	ERROR	FxA rejecting with error UNVERIFIED_ACCOUNT, details: undefined
+1654176743011	FirefoxAccounts	ERROR	Background refresh of initial profile failed: Error: UNVERIFIED_ACCOUNT(resource://gre/modules/FxAccounts.jsm:1530:18) JS Stack trace: _error@FxAccounts.jsm:1530:18
+withSessionToken@FxAccounts.jsm:789:18
+1654176743011	FirefoxAccounts	ERROR	Background refresh of initial profile failed: Error: UNVERIFIED_ACCOUNT(resource://gre/modules/FxAccounts.jsm:1530:18) JS Stack trace: _error@FxAccounts.jsm:1530:18
+withSessionToken@FxAccounts.jsm:789:18
+console.info: "Skipping device list refresh; not signed in"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.firefox.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://static-exp1.licdn.com/sc/h/52wgp9wyqjubo2hb4yuzxilal, line 6986: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/52wgp9wyqjubo2hb4yuzxilal, line 18833: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/3le6gwwspzkehztcikj1xaacv, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1pm56dktgqvi7t02hm7bu82ob, line 2394: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/52wgp9wyqjubo2hb4yuzxilal, line 18833: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/bpf1tny9c6mgm2kctrckf3sjs, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/c79telqxnjwrw4dtl8488lr6l, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1q13izl9ck9u2zxyd6qczi8zr, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/99y6qy9rn0q0aff9pgdpypyc8, line 39: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/spgg2wyfctoo4gkn756lci57, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/52wgp9wyqjubo2hb4yuzxilal, line 6986: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/52wgp9wyqjubo2hb4yuzxilal, line 18833: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/3le6gwwspzkehztcikj1xaacv, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1pm56dktgqvi7t02hm7bu82ob, line 2394: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/3le6gwwspzkehztcikj1xaacv, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1pm56dktgqvi7t02hm7bu82ob, line 2394: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/bpf1tny9c6mgm2kctrckf3sjs, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/c79telqxnjwrw4dtl8488lr6l, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1q13izl9ck9u2zxyd6qczi8zr, line 6: unreachable code after return statement
+[Child 92841, MediaDecoderStateMachine #1] WARNING: 125b5c8d0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:327
+JavaScript warning: https://static-exp1.licdn.com/sc/h/99y6qy9rn0q0aff9pgdpypyc8, line 39: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/spgg2wyfctoo4gkn756lci57, line 6: unreachable code after return statement
+1654176831261	geckodriver	INFO	Listening on 127.0.0.1:59320
+1654176831783	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "59321" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/r2/jfrzfzqj7rjgpmcb5rms2xyr000k09/T/rust_mozprofileqt5VF2"
+console.error: JsonSchemaValidator.jsm: 
+  Ignoring parameter ".linkedin.com" - not a valid origin.
+console.error: JsonSchemaValidator.jsm: 
+  Ignoring parameter ".linkedin.biz" - not a valid origin.
+console.error: JsonSchemaValidator.jsm: 
+  Ignoring parameter "www.traq.com" - not a valid origin.
+console.error: JsonSchemaValidator.jsm: 
+  Ignoring parameter "commcare.tangoe.com" - not a valid origin.
+console.error: JsonSchemaValidator.jsm: 
+  Ignoring parameter "linkedin.csod.com" - not a valid origin.
+2022-06-02 06:33:52.129 plugin-container[92941:2159636] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-02 06:33:52.129 plugin-container[92941:2159636] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-02 06:33:52.141 plugin-container[92941:2159636] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-02 06:33:52.141 plugin-container[92941:2159636] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1654176832141	Marionette	INFO	Marionette enabled
+2022-06-02 06:33:52.141 plugin-container[92941:2159661] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-02 06:33:52.141 plugin-container[92941:2159661] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-02 06:33:52.699 firefox-bin[92940:2159576] Warning: Expected min height of view: (<NSButton: 0x12c741000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-02 06:33:52.699 firefox-bin[92940:2159576] Warning: Expected min height of view: (<NSButton: 0x12c90bc00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-02 06:33:52.700 firefox-bin[92940:2159576] Warning: Expected min height of view: (<NSButton: 0x12c914800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-02 06:33:52.700 firefox-bin[92940:2159576] Warning: Expected min height of view: (<NSButton: 0x12c911400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-02 06:33:52.701 firefox-bin[92940:2159576] Warning: Expected min height of view: (<NSButton: 0x12c914c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-02 06:33:52.701 firefox-bin[92940:2159576] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x12c90e400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-02 06:33:52.702 firefox-bin[92940:2159576] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x12c73ec00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/r2/jfrzfzqj7rjgpmcb5rms2xyr000k09/T/rust_mozprofileqt5VF2/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:59321/devtools/browser/8ca50997-4cde-47b4-8a59-c3e64cb9ee0c
+1654176833623	Marionette	INFO	Listening on port 59336
+Read port: 59336
+1654176833654	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+2022-06-02 06:34:03.690 firefox-bin[92940:2159576] TSM AdjustCapsLockLEDForKeyTransitionHandling - _ISSetPhysicalKeyboardCapsLockLED Inhibit
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://static-exp1.licdn.com/sc/h/52wgp9wyqjubo2hb4yuzxilal, line 6986: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/52wgp9wyqjubo2hb4yuzxilal, line 18833: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/3le6gwwspzkehztcikj1xaacv, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1pm56dktgqvi7t02hm7bu82ob, line 2394: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/52wgp9wyqjubo2hb4yuzxilal, line 18833: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/bpf1tny9c6mgm2kctrckf3sjs, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/c79telqxnjwrw4dtl8488lr6l, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1q13izl9ck9u2zxyd6qczi8zr, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/99y6qy9rn0q0aff9pgdpypyc8, line 39: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/spgg2wyfctoo4gkn756lci57, line 6: unreachable code after return statement
+1654176897161	geckodriver	INFO	Listening on 127.0.0.1:59475
+1654176897687	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "59476" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/r2/jfrzfzqj7rjgpmcb5rms2xyr000k09/T/rust_mozprofileHmouRU"
+console.error: JsonSchemaValidator.jsm: 
+  Ignoring parameter ".linkedin.com" - not a valid origin.
+console.error: JsonSchemaValidator.jsm: 
+  Ignoring parameter ".linkedin.biz" - not a valid origin.
+console.error: JsonSchemaValidator.jsm: 
+  Ignoring parameter "www.traq.com" - not a valid origin.
+console.error: JsonSchemaValidator.jsm: 
+  Ignoring parameter "commcare.tangoe.com" - not a valid origin.
+console.error: JsonSchemaValidator.jsm: 
+  Ignoring parameter "linkedin.csod.com" - not a valid origin.
+2022-06-02 06:34:58.035 plugin-container[92995:2160808] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-02 06:34:58.035 plugin-container[92995:2160808] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-02 06:34:58.039 plugin-container[92995:2160808] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-02 06:34:58.039 plugin-container[92995:2160808] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-02 06:34:58.039 plugin-container[92995:2160814] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-02 06:34:58.040 plugin-container[92995:2160814] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1654176898048	Marionette	INFO	Marionette enabled
+2022-06-02 06:34:58.577 firefox-bin[92994:2160755] Warning: Expected min height of view: (<NSButton: 0x1222cfc00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-02 06:34:58.578 firefox-bin[92994:2160755] Warning: Expected min height of view: (<NSButton: 0x122523c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-02 06:34:58.578 firefox-bin[92994:2160755] Warning: Expected min height of view: (<NSButton: 0x122526800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-02 06:34:58.579 firefox-bin[92994:2160755] Warning: Expected min height of view: (<NSButton: 0x122526c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-02 06:34:58.579 firefox-bin[92994:2160755] Warning: Expected min height of view: (<NSButton: 0x122528400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-02 06:34:58.580 firefox-bin[92994:2160755] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x122525400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-02 06:34:58.580 firefox-bin[92994:2160755] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x1222c4800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/r2/jfrzfzqj7rjgpmcb5rms2xyr000k09/T/rust_mozprofileHmouRU/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:59476/devtools/browser/cc63d7f2-57f4-468c-a0c3-919ff4157ef9
+1654176899456	Marionette	INFO	Listening on port 59493
+Read port: 59493
+1654176899555	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///modules/BrowserUsageTelemetry.jsm, line 826: TypeError: node.getAttribute is not a function
+2022-06-02 06:35:18.209 firefox-bin[92994:2160755] TSM AdjustCapsLockLEDForKeyTransitionHandling - _ISSetPhysicalKeyboardCapsLockLED Inhibit
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.firefox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.firefox.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.firefox.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.firefox.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: resource:///modules/BrowserUsageTelemetry.jsm, line 826: TypeError: node.getAttribute is not a function
+JavaScript error: resource:///modules/BrowserUsageTelemetry.jsm, line 826: TypeError: node.getAttribute is not a function
+JavaScript error: resource:///modules/BrowserUsageTelemetry.jsm, line 826: TypeError: node.getAttribute is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://static-exp1.licdn.com/sc/h/52wgp9wyqjubo2hb4yuzxilal, line 6986: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/52wgp9wyqjubo2hb4yuzxilal, line 18833: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/3le6gwwspzkehztcikj1xaacv, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1pm56dktgqvi7t02hm7bu82ob, line 2394: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/52wgp9wyqjubo2hb4yuzxilal, line 18833: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/bpf1tny9c6mgm2kctrckf3sjs, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/c79telqxnjwrw4dtl8488lr6l, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1q13izl9ck9u2zxyd6qczi8zr, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/99y6qy9rn0q0aff9pgdpypyc8, line 39: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/spgg2wyfctoo4gkn756lci57, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/52wgp9wyqjubo2hb4yuzxilal, line 6986: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/52wgp9wyqjubo2hb4yuzxilal, line 18833: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/3le6gwwspzkehztcikj1xaacv, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1pm56dktgqvi7t02hm7bu82ob, line 2394: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/3le6gwwspzkehztcikj1xaacv, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1pm56dktgqvi7t02hm7bu82ob, line 2394: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/bpf1tny9c6mgm2kctrckf3sjs, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/c79telqxnjwrw4dtl8488lr6l, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1q13izl9ck9u2zxyd6qczi8zr, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/99y6qy9rn0q0aff9pgdpypyc8, line 39: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/spgg2wyfctoo4gkn756lci57, line 6: unreachable code after return statement
+1654177014466	geckodriver	INFO	Listening on 127.0.0.1:59679
+1654177014992	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "59680" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/r2/jfrzfzqj7rjgpmcb5rms2xyr000k09/T/rust_mozprofileryabQ5"
+console.error: JsonSchemaValidator.jsm: 
+  Ignoring parameter ".linkedin.com" - not a valid origin.
+console.error: JsonSchemaValidator.jsm: 
+  Ignoring parameter ".linkedin.biz" - not a valid origin.
+console.error: JsonSchemaValidator.jsm: 
+  Ignoring parameter "www.traq.com" - not a valid origin.
+console.error: JsonSchemaValidator.jsm: 
+  Ignoring parameter "commcare.tangoe.com" - not a valid origin.
+console.error: JsonSchemaValidator.jsm: 
+  Ignoring parameter "linkedin.csod.com" - not a valid origin.
+2022-06-02 06:36:55.341 plugin-container[93096:2163002] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-02 06:36:55.341 plugin-container[93096:2163002] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-02 06:36:55.345 plugin-container[93096:2163002] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-02 06:36:55.345 plugin-container[93096:2163002] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-02 06:36:55.345 plugin-container[93096:2163008] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-02 06:36:55.345 plugin-container[93096:2163008] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1654177015354	Marionette	INFO	Marionette enabled
+2022-06-02 06:36:55.906 firefox-bin[93095:2162954] Warning: Expected min height of view: (<NSButton: 0x11a343000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-02 06:36:55.907 firefox-bin[93095:2162954] Warning: Expected min height of view: (<NSButton: 0x11a580000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-02 06:36:55.908 firefox-bin[93095:2162954] Warning: Expected min height of view: (<NSButton: 0x11a580400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-02 06:36:55.909 firefox-bin[93095:2162954] Warning: Expected min height of view: (<NSButton: 0x11a582800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-02 06:36:55.909 firefox-bin[93095:2162954] Warning: Expected min height of view: (<NSButton: 0x11a581c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-02 06:36:55.910 firefox-bin[93095:2162954] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x11a582400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-02 06:36:55.910 firefox-bin[93095:2162954] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x11a340000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/r2/jfrzfzqj7rjgpmcb5rms2xyr000k09/T/rust_mozprofileryabQ5/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:59680/devtools/browser/2c823f26-a989-4ecb-82b9-5a9af05ae285
+1654177016847	Marionette	INFO	Listening on port 59697
+Read port: 59697
+1654177016873	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+1654177056658	geckodriver	INFO	Listening on 127.0.0.1:59785
+1654177057183	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "59786" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/r2/jfrzfzqj7rjgpmcb5rms2xyr000k09/T/rust_mozprofileB0IwLK"
+console.error: JsonSchemaValidator.jsm: 
+  Ignoring parameter ".linkedin.com" - not a valid origin.
+console.error: JsonSchemaValidator.jsm: 
+  Ignoring parameter ".linkedin.biz" - not a valid origin.
+console.error: JsonSchemaValidator.jsm: 
+  Ignoring parameter "www.traq.com" - not a valid origin.
+console.error: JsonSchemaValidator.jsm: 
+  Ignoring parameter "commcare.tangoe.com" - not a valid origin.
+console.error: JsonSchemaValidator.jsm: 
+  Ignoring parameter "linkedin.csod.com" - not a valid origin.
+2022-06-02 06:37:37.538 plugin-container[93138:2163905] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-02 06:37:37.538 plugin-container[93138:2163905] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-02 06:37:37.542 plugin-container[93138:2163905] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-02 06:37:37.542 plugin-container[93138:2163905] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-02 06:37:37.542 plugin-container[93138:2163907] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-02 06:37:37.542 plugin-container[93138:2163907] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1654177057552	Marionette	INFO	Marionette enabled
+2022-06-02 06:37:38.090 firefox-bin[93137:2163854] Warning: Expected min height of view: (<NSButton: 0x12476c400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-02 06:37:38.090 firefox-bin[93137:2163854] Warning: Expected min height of view: (<NSButton: 0x124a63c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-02 06:37:38.091 firefox-bin[93137:2163854] Warning: Expected min height of view: (<NSButton: 0x124a64400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-02 06:37:38.091 firefox-bin[93137:2163854] Warning: Expected min height of view: (<NSButton: 0x124a64000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-02 06:37:38.092 firefox-bin[93137:2163854] Warning: Expected min height of view: (<NSButton: 0x124a67c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-02 06:37:38.092 firefox-bin[93137:2163854] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x124a65400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-02 06:37:38.093 firefox-bin[93137:2163854] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x124762c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/r2/jfrzfzqj7rjgpmcb5rms2xyr000k09/T/rust_mozprofileB0IwLK/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:59786/devtools/browser/8786c294-e999-4d26-8634-d20acbfb7db2
+1654177059015	Marionette	INFO	Listening on port 59805
+Read port: 59805
+1654177059046	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+2022-06-02 06:37:56.837 firefox-bin[93137:2163854] TSM AdjustCapsLockLEDForKeyTransitionHandling - _ISSetPhysicalKeyboardCapsLockLED Inhibit
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://static-exp1.licdn.com/sc/h/52wgp9wyqjubo2hb4yuzxilal, line 6986: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/52wgp9wyqjubo2hb4yuzxilal, line 18833: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/3le6gwwspzkehztcikj1xaacv, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1pm56dktgqvi7t02hm7bu82ob, line 2394: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/52wgp9wyqjubo2hb4yuzxilal, line 18833: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/bpf1tny9c6mgm2kctrckf3sjs, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/c79telqxnjwrw4dtl8488lr6l, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1q13izl9ck9u2zxyd6qczi8zr, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/99y6qy9rn0q0aff9pgdpypyc8, line 39: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/spgg2wyfctoo4gkn756lci57, line 6: unreachable code after return statement
+JavaScript warning: resource://gre/modules/Troubleshoot.jsm, line 707: WebGL context was lost.
+JavaScript warning: resource://gre/modules/Troubleshoot.jsm, line 707: WebGL context was lost.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/52wgp9wyqjubo2hb4yuzxilal, line 6986: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/52wgp9wyqjubo2hb4yuzxilal, line 18833: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/3le6gwwspzkehztcikj1xaacv, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1pm56dktgqvi7t02hm7bu82ob, line 2394: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/3le6gwwspzkehztcikj1xaacv, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1pm56dktgqvi7t02hm7bu82ob, line 2394: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/bpf1tny9c6mgm2kctrckf3sjs, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/c79telqxnjwrw4dtl8488lr6l, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1q13izl9ck9u2zxyd6qczi8zr, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/99y6qy9rn0q0aff9pgdpypyc8, line 39: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/spgg2wyfctoo4gkn756lci57, line 6: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://static-exp1.licdn.com/sc/h/9bl4jhjs893eu15f8lrcy12rq, line 1: TypeError: n.error is null
+JavaScript error: https://platform.linkedin.com/litms/utag/jobs-guest-frontend/utag.94.js?utv=ut4.46.202111302027, line 1: TypeError: utag is undefined
+JavaScript error: https://static-exp1.licdn.com/sc/h/9bl4jhjs893eu15f8lrcy12rq, line 1: TypeError: n.error is null
+JavaScript error: https://platform.linkedin.com/litms/utag/jobs-guest-frontend/utag.89.js?utv=ut4.46.202111302027, line 1: TypeError: utag is undefined
+JavaScript error: https://static-exp1.licdn.com/sc/h/9bl4jhjs893eu15f8lrcy12rq, line 1: TypeError: n.error is null
+JavaScript error: https://platform.linkedin.com/litms/utag/jobs-guest-frontend/utag.88.js?utv=ut4.46.202111302027, line 1: TypeError: utag is undefined
+JavaScript error: https://static-exp1.licdn.com/sc/h/9bl4jhjs893eu15f8lrcy12rq, line 1: TypeError: n.error is null
+JavaScript error: https://platform.linkedin.com/litms/utag/jobs-guest-frontend/utag.104.js?utv=ut4.46.202111302027, line 1: TypeError: utag is undefined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://static-exp1.licdn.com/sc/h/52wgp9wyqjubo2hb4yuzxilal, line 6986: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/52wgp9wyqjubo2hb4yuzxilal, line 18833: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/3le6gwwspzkehztcikj1xaacv, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1pm56dktgqvi7t02hm7bu82ob, line 2394: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/3le6gwwspzkehztcikj1xaacv, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1pm56dktgqvi7t02hm7bu82ob, line 2394: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/bpf1tny9c6mgm2kctrckf3sjs, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/c79telqxnjwrw4dtl8488lr6l, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1q13izl9ck9u2zxyd6qczi8zr, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/99y6qy9rn0q0aff9pgdpypyc8, line 39: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/spgg2wyfctoo4gkn756lci57, line 6: unreachable code after return statement
+1654177247438	FirefoxAccounts	ERROR	Pairing channel error: Error: WebSocket unexpectedly closed(resource://gre/modules/FxAccountsPairingChannel.js:3601:20) JS Stack trace: FxAccountsPairingChannel</_setupListeners/<@FxAccountsPairingChannel.js:3601:20
+1654177268738	geckodriver	INFO	Listening on 127.0.0.1:60047
+1654177269261	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "60048" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/r2/jfrzfzqj7rjgpmcb5rms2xyr000k09/T/rust_mozprofilejixS9j"
+console.error: JsonSchemaValidator.jsm: 
+  Ignoring parameter ".linkedin.com" - not a valid origin.
+console.error: JsonSchemaValidator.jsm: 
+  Ignoring parameter ".linkedin.biz" - not a valid origin.
+console.error: JsonSchemaValidator.jsm: 
+  Ignoring parameter "www.traq.com" - not a valid origin.
+console.error: JsonSchemaValidator.jsm: 
+  Ignoring parameter "commcare.tangoe.com" - not a valid origin.
+console.error: JsonSchemaValidator.jsm: 
+  Ignoring parameter "linkedin.csod.com" - not a valid origin.
+2022-06-02 06:41:09.644 plugin-container[93315:2167117] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-02 06:41:09.644 plugin-container[93315:2167117] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1654177269653	Marionette	INFO	Marionette enabled
+2022-06-02 06:41:09.659 plugin-container[93315:2167117] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-02 06:41:09.659 plugin-container[93315:2167117] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-02 06:41:09.660 plugin-container[93315:2167142] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-02 06:41:09.660 plugin-container[93315:2167142] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-02 06:41:10.233 firefox-bin[93314:2167060] Warning: Expected min height of view: (<NSButton: 0x12bab2000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-02 06:41:10.233 firefox-bin[93314:2167060] Warning: Expected min height of view: (<NSButton: 0x12bd19800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-02 06:41:10.234 firefox-bin[93314:2167060] Warning: Expected min height of view: (<NSButton: 0x12bd1c000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-02 06:41:10.234 firefox-bin[93314:2167060] Warning: Expected min height of view: (<NSButton: 0x12bd16800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-02 06:41:10.235 firefox-bin[93314:2167060] Warning: Expected min height of view: (<NSButton: 0x12bd15800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-02 06:41:10.236 firefox-bin[93314:2167060] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x12bd1a800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-02 06:41:10.236 firefox-bin[93314:2167060] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x12baa5800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/r2/jfrzfzqj7rjgpmcb5rms2xyr000k09/T/rust_mozprofilejixS9j/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:60048/devtools/browser/be59957e-f838-431d-8cf2-947fdef6d62f
+1654177271143	Marionette	INFO	Listening on port 60064
+Read port: 60064
+1654177271218	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+2022-06-02 06:41:22.456 firefox-bin[93314:2167060] TSM AdjustCapsLockLEDForKeyTransitionHandling - _ISSetPhysicalKeyboardCapsLockLED Inhibit
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://static-exp1.licdn.com/sc/h/52wgp9wyqjubo2hb4yuzxilal, line 6986: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/52wgp9wyqjubo2hb4yuzxilal, line 18833: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/3le6gwwspzkehztcikj1xaacv, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1pm56dktgqvi7t02hm7bu82ob, line 2394: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/52wgp9wyqjubo2hb4yuzxilal, line 18833: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/bpf1tny9c6mgm2kctrckf3sjs, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/c79telqxnjwrw4dtl8488lr6l, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1q13izl9ck9u2zxyd6qczi8zr, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/99y6qy9rn0q0aff9pgdpypyc8, line 39: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/spgg2wyfctoo4gkn756lci57, line 6: unreachable code after return statement
+
+###!!! [Child][PContentChild] Error: Send(msgname=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+1654177345342	Marionette	INFO	Stopped listening on port 54676
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1654177348612	Marionette	INFO	Stopped listening on port 57571
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1654177354394	Marionette	INFO	Stopped listening on port 57688
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1654177357901	Marionette	INFO	Stopped listening on port 57840
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1654177361010	Marionette	INFO	Stopped listening on port 57956
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1654177363942	Marionette	INFO	Stopped listening on port 58819
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1654177367228	Marionette	INFO	Stopped listening on port 58958
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1654177370247	Marionette	INFO	Stopped listening on port 59098
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1654177372670	Marionette	INFO	Stopped listening on port 59336
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1654177375473	Marionette	INFO	Stopped listening on port 59493
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1654177379154	Marionette	INFO	Stopped listening on port 59697
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1654177382855	Marionette	INFO	Stopped listening on port 59805
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1654177385698	Marionette	INFO	Stopped listening on port 60064
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1654177960216	geckodriver	INFO	Listening on 127.0.0.1:60366
+1654177960553	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "60367" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/r2/jfrzfzqj7rjgpmcb5rms2xyr000k09/T/rust_mozprofileargBxx"
+console.error: JsonSchemaValidator.jsm: 
+  Ignoring parameter ".linkedin.com" - not a valid origin.
+console.error: JsonSchemaValidator.jsm: 
+  Ignoring parameter ".linkedin.biz" - not a valid origin.
+console.error: JsonSchemaValidator.jsm: 
+  Ignoring parameter "www.traq.com" - not a valid origin.
+console.error: JsonSchemaValidator.jsm: 
+  Ignoring parameter "commcare.tangoe.com" - not a valid origin.
+console.error: JsonSchemaValidator.jsm: 
+  Ignoring parameter "linkedin.csod.com" - not a valid origin.
+2022-06-02 06:52:40.990 plugin-container[94166:2177150] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-02 06:52:40.991 plugin-container[94166:2177150] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-02 06:52:40.994 plugin-container[94166:2177150] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-02 06:52:40.994 plugin-container[94166:2177150] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-02 06:52:40.994 plugin-container[94166:2177152] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-02 06:52:40.994 plugin-container[94166:2177152] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1654177961004	Marionette	INFO	Marionette enabled
+2022-06-02 06:52:41.519 firefox-bin[94165:2177091] Warning: Expected min height of view: (<NSButton: 0x116695400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-02 06:52:41.519 firefox-bin[94165:2177091] Warning: Expected min height of view: (<NSButton: 0x11ed37800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-02 06:52:41.520 firefox-bin[94165:2177091] Warning: Expected min height of view: (<NSButton: 0x11ed34800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-02 06:52:41.520 firefox-bin[94165:2177091] Warning: Expected min height of view: (<NSButton: 0x11ed36000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-02 06:52:41.521 firefox-bin[94165:2177091] Warning: Expected min height of view: (<NSButton: 0x11ed35000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-02 06:52:41.521 firefox-bin[94165:2177091] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x11ed37c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-06-02 06:52:41.522 firefox-bin[94165:2177091] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x11669c800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/r2/jfrzfzqj7rjgpmcb5rms2xyr000k09/T/rust_mozprofileargBxx/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:60367/devtools/browser/7c8e28bc-8bb4-468f-8c12-5e2ed5364982
+1654177962346	Marionette	INFO	Listening on port 60384
+Read port: 60384
+1654177962428	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1654178379364	Marionette	INFO	Stopped listening on port 60384
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
